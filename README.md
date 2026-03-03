@@ -68,13 +68,18 @@ Before running data processing or inference, please download the necessary resou
 ### 1. Model Checkpoints
 Download the model files and place them in the `./checkpoints` directory.
 
-- **Link:** [Download Models via Google Drive](https://drive.google.com/drive/folders/1aJH9EG2_zI53oIs4wGQXB6fF8AKxqbgm?usp=sharing)
+- **Link:** 
+[Download Models via Google Drive](https://drive.google.com/drive/folders/1aJH9EG2_zI53oIs4wGQXB6fF8AKxqbgm?usp=sharing)
+[Download Models from Hugging Face](https://huggingface.co/lsfhuihuiff/SongEcho)
+
 - **Target Path:** `./checkpoints/`
 
 ### 2. Dataset Metadata
 Download the dataset metadata and place the files in the `suno70k` directory.
 
-- **Link:** [Download Metadata via Google Drive](https://drive.google.com/drive/folders/1BgaEVggT6JipF04W71yewoTmRyYuV0kl?usp=sharing)
+- **Link:** 
+[Download Metadata via Google Drive](https://drive.google.com/drive/folders/1BgaEVggT6JipF04W71yewoTmRyYuV0kl?usp=sharing)
+[Download Metadata from Hugging Face](https://huggingface.co/datasets/lsfhuihuiff/suno70k)
 - **Target Path:** `./suno70k/`
 
 ## 📊 Data Processing
